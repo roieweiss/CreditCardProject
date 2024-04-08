@@ -1,0 +1,6 @@
+@CreditCardProject_HostAddress = http://localhost:5027
+
+GET {{CreditCardProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
